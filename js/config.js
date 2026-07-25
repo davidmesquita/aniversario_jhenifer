@@ -17,39 +17,51 @@ export const CONFIG = {
     },
     {
       image: "",
-      question: "Qual foi o nosso primeiro encontro de verdade?",
-      options: ["Cinema", "Praia", "Um café", "Sua casa"],
-      correctIndex: 2,
-    },
-    {
-      image: "",
-      question: "Qual é o prato que ela mais pede pra eu fazer (ou pedir no delivery)?",
-      options: ["Pizza", "Comida japonesa", "Macarrão", "Açaí"],
-      correctIndex: 1,
-    },
-    {
-      image: "",
-      question: "Qual foi a nossa primeira viagem juntos?",
-      options: ["Praia", "Serra", "Outra cidade", "Ainda não viajamos"],
-      correctIndex: 0,
-    },
-    {
-      image: "",
-      question: "O que ela sempre fala que eu esqueço de fazer?",
-      options: ["Lavar a louça", "Responder mensagem", "Guardar a roupa", "Levar o lixo"],
-      correctIndex: 1,
-    },
-    {
-      image: "",
-      question: "Qual é a série/filme favorito dela?",
-      options: ["Opção A", "Opção B", "Opção C", "Opção D"],
-      correctIndex: 0,
-    },
-    {
-      image: "",
-      question: "Qual apelido carinhoso eu uso com ela?",
-      options: ["Amor", "Bebê", "Vida", "Todos acima"],
+      question: "Qual minha comida favorita?",
+      options: ["Panelada", "Batata Frita", "Macarrão", "Cachorro quente do meu sogro"],
       correctIndex: 3,
+    },
+    {
+      image: "",
+      question: "Qual minha cor favorita?",
+      options: ["Preto", "Branco", "Azul", "Roxo/Lilás"],
+      correctIndex: 3,
+    },
+    {
+      image: "",
+      question: "Pra onde mais gosto de viajar?",
+      options: ["Praia", "Serra", "Trilha", "Cavernas"],
+      correctIndex: 0,
+    },
+    {
+      image: "",
+      question: "qual meu animal favorito?",
+      options: ["Cachorro", "Gato", "Ornitorrinco", "Borboleta"],
+      correctIndex: 3,
+    },
+    {
+      image: "",
+      question: "Qual minha flor favorita?",
+      options: ["Rosa", "Girassol", "Tulipa", "Margarida"],
+      correctIndex: 3,
+    },
+    {
+      image: "",
+      question: "Qual meu artista favorito?",
+      options: ["Bruno Mars", "Taylor Swift", "Zezo", "Justin Bieber"],
+      correctIndex: 3,
+    },
+    {
+      image: "",
+      question: "Qual será o nome do meu cachorro?",
+      options: ["Atlas", "Max", "Astrogildo", "Bolinha"],
+      correctIndex: 0,
+    },
+    {
+      image: "",
+      question: "Qual meu personagem favorito?",
+      options: ["Satoru Gojo", "Naruto", "Kakashi", "Muzan Kibutsuji"],
+      correctIndex: 0,
     },
     {
       image: "",
@@ -71,10 +83,10 @@ Com todo o meu amor,
   // Fotos finais — coloque os arquivos na pasta imagens/ e use só o nome do arquivo
   // Exemplo: "foto1.jpg", "foto2.jpg"
   finalImages: [
-    "",
-    "",
-    "",
-    "",
+    "foto1.jpeg",
+    "foto2.jpeg",
+    "foto3.jpeg",
+    "foto4.jpeg",
   ],
 };
 

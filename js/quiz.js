@@ -7,7 +7,7 @@ const stage = document.getElementById("stage");
 function renderIntro() {
   stage.innerHTML = `
     <div class="intro">
-      <div class="eyebrow">Um teste sobre nós dois</div>
+      <div class="eyebrow">Um teste sobre mim</div>
       <h1>Quanto você me conhece?</h1>
       <p>${CONFIG.questions.length} perguntas. Acerte 90% ou mais e algo especial aparece no final.</p>
       <button class="btn solid" id="start">Começar</button>
