@@ -71,14 +71,13 @@ export const CONFIG = {
     },
   ],
 
-  finalText: `Feliz aniversário, meu amor.
+  finalText: `Feliz aniversário, minha vidinha ❤️🥳🥳!
 
-27 anos de você existindo no mundo — e alguns desses anos, com a sorte de ser eu quem está ao seu lado.
+Como seria muito ruim pôr um texto desse tamanho no status ou nos stories, fiz esse site simples para conseguir digitar mais. Eu quero te desejar meus parabéns! Você é a pessoa mais incrível deste mundo inteiro e eu garanto que você é um presente para todos os que tiveram a sorte de conviver verdadeiramente com você e conseguir acessar personalidades que nem imaginariam que você possa ter.
 
-Escreva aqui a sua carta de verdade: o que você mais admira nela, uma lembrança específica, uma piada interna, um "eu te amo" bem seu. Pode ser grande, pode ser curto — o que importa é que seja você falando com ela.
+Eu te admiro muito e tenho muito orgulho, sei que você é a pessoa mais merecedora de coisas boas. Você é luz, paz, sossego e calmaria na minha vida. Neste mesmo dia, há 27 anos atrás, não nasceu simplesmente a Jhênifer, Deus decidiu que ia presentear o mundo e esse presente é você. É incrível o quão admirável você é, basta simplesmente conversar 10 minutos com você e entender o quão maravilhosa você é.
 
-Com todo o meu amor,
-[assine aqui]`,
+Sou muito sortudo por ter você na minha vida, e eu só tenho a agradecer a você por tudo o que você é e por tudo o que você vai se tornar. Eu te desejo tudo de bom nesta vida, que Deus abençoe todas as partes da sua vida. EU TE AMO INFINITAMENTE ❤️❤️❤️😍🥰`,
 
   // Fotos finais — coloque os arquivos na pasta imagens/ e use só o nome do arquivo
   // Exemplo: "foto1.jpg", "foto2.jpg"
