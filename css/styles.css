@@ -27,17 +27,20 @@ body {
     var(--bg-deep);
   color: var(--cream);
   font-family: 'Karla', sans-serif;
+
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: flex-start;   /* <- era center */
+
   padding: 24px;
+  overflow-y: auto;
 }
 
 .stage {
   width: 100%;
-  max-width: 520px;
+  max-width: 700px;
+  margin: 40px auto;
 }
-
 /* ---------- INTRO ---------- */
 .intro {
   text-align: center;

@@ -71,7 +71,8 @@ export const CONFIG = {
     },
   ],
 
-  finalText: `Feliz aniversário, minha vidinha ❤️🥳🥳!
+  finalText: `
+Feliz aniversário, minha vidinha ❤️🥳🥳!
 
 Como seria muito ruim pôr um texto desse tamanho no status ou nos stories, fiz esse site simples para conseguir digitar mais. Eu quero te desejar meus parabéns! Você é a pessoa mais incrível deste mundo inteiro e eu garanto que você é um presente para todos os que tiveram a sorte de conviver verdadeiramente com você e conseguir acessar personalidades que nem imaginariam que você possa ter.
 
