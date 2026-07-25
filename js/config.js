@@ -83,10 +83,10 @@ Com todo o meu amor,
   // Fotos finais — coloque os arquivos na pasta imagens/ e use só o nome do arquivo
   // Exemplo: "foto1.jpg", "foto2.jpg"
   finalImages: [
-    "foto1.jpeg",
-    "foto2.jpeg",
-    "foto3.jpeg",
-    "foto4.jpeg",
+    "foto1.png",
+    "foto2.png",
+    "foto3.png",
+    "foto4.png",
   ],
 };
 
